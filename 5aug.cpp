@@ -20,7 +20,8 @@
     }
     
     Memoisation--------------->
-    
+    Passes all test cases 
+
      int solve(vector<int>& nums, int target,vector<int> &dp)
     {
         if(target<0)
